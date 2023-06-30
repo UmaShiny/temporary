@@ -17,3 +17,5 @@ print("is")
 print("from")
 
 print("branch:A")
+
+print("修正したmainをこのシートへ反映させる")
