@@ -1,3 +1,8 @@
+# from  C
+#私はpythonに生きている藻の一種である．
+#どうぞよろしく願いたい．
+
+# remain main
 ##################################################################
 # From B : commited At 2023/06/30
 # ROLL: Making Sentence.
@@ -17,3 +22,4 @@ print("is")
 print("from")
 
 print("branch:A")
+#remain  main
